@@ -31,6 +31,7 @@ To run the Blackjack game, you can compile and execute the `BlackjackGUI.java` f
 ```bash
 javac BlackjackGame/BlackjackGUI.java
 java BlackjackGame.BlackjackGUI
+```
 
 ## Dependencies
 Java
